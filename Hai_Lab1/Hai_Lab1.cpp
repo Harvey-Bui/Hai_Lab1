@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello from Hai! This is my first Git commit.";
+    cout << "Hello from Hai! This is my first Git commit.\n";
 }
