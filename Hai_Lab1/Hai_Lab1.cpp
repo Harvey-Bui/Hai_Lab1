@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    cout << " Hello from Student B! \n";
+    cout << " Hello from Student BB! \n";
 
     cout << "Git makes collaboration easy!" << endl;
 
