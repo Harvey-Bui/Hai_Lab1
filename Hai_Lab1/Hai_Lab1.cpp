@@ -10,4 +10,6 @@ int main()
     cout << "Git makes collaboration easy!" << endl;
 
     cout << "Changes made by Jessica!" << endl;
+
+    cout << "Feature by Harvey Bui: Branching is awesome!\n";
 }

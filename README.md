@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 - Bui Le Hoang Hai
 - Jessica Brasel
+
+## Changes Made by Harvey Bui: Added a feature greeting.
