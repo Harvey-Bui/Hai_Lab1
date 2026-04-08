@@ -14,4 +14,6 @@ int main()
     cout << "Changes made by Jessica!" << endl;
 
     cout << "Feature by Harvey Bui: Branching is awesome!\n";
+
+    cout << "Student ID: 12345678 | Name: Harvey Bui\n";
 }
