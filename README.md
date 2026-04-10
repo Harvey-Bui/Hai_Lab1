@@ -14,5 +14,10 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Changes Made by Harvey Bui: Added a feature greeting.
 
+<<<<<<< feature/grade-calculator
+## New Feature: grade Calculator
+-	Added a function to calculate the average grade based on the scores input by the user.
+=======
 ## Team Member
 - harvey Bui - Feature: student info display
+>>>>>>> master
