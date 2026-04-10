@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1.
 - Jessica Brasel
 
 ## Changes Made by Harvey Bui: Added a feature greeting.
+
+## New Feature: grade Calculator
+-	Added a function to calculate the average grade based on the scores input by the user.
